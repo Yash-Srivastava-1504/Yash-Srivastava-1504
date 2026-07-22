@@ -51,10 +51,8 @@ A production-grade RAG engine for financial document intelligence — ask natura
 An agentic, conversational auto-parts assistant (built for an AI/ML take-home assessment) — dealers search a 600-SKU catalog, check stock, and place orders in natural language. Hand-written ReAct agent loop with `sentence-transformers` + ChromaDB retrieval, three Pydantic-validated tool-calling functions, a multi-LLM fallback chain (HuggingFace → Groq → Fireworks), and a 25-case evaluation harness.
 `Python` `Agentic AI` `Tool Calling` `RAG`
 
-**🧠 [Manah-AI-Companion](https://github.com/Yash-Srivastava-1504/Manah-AI-Companion)**
-A Gen-Z-oriented AI companion for everyday mood check-ins and supportive conversation. Node.js/Express backend with real-time WebSocket chat, OpenAI-powered responses, JWT auth, scheduled check-ins, and a Jest test suite.
-`JavaScript` `Node.js` `WebSockets` `OpenAI API`
-
+**🧠 [Manah_AI_Companion](https://github.com/Yash-Srivastava-1504/Manah_AI_Companion.git)**
+A Gen-Z-oriented AI-powered mental health companion app, Manah is designed to provide accessible emotional support through personalized chat. It features a React frontend and a FastAPI backend connected to Supabase for secure data storage and authentication. Users can log their moods and chat with different AI personas (like a "friend" or "didi") in multiple languages to navigate stress and anxiety in a safe, private environment.
 <div align="center">
 
 *[See all repositories →](https://github.com/Yash-Srivastava-1504?tab=repositories)*
